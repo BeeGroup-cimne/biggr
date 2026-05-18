@@ -27,6 +27,7 @@ This R package is licensed under the EUPL License. It also depends on other popu
 ## Authors
 
 - Gerard Mor - gmor@cimne.upc.edu
+- Pablo Alexander Moreno - pablo.alexander.moreno@upc.edu
 - Aleix Badia 
 - Eloi Gabaldón - egabaldon@cimne.upc.edu
 - Jordi Carbonell - jordi@cimne.upc.edu
@@ -38,6 +39,6 @@ This R package is licensed under the EUPL License. It also depends on other popu
 - Riccardo De Vivo
 - Manu Lahariya
 
-Copyright (c) 2022 Gerard Mor, Aleix Badia, Eloi Gabaldón, Jordi Carbonell, Stoyan Danov, Florencia Lazzari, Gerard Laguna, Marc Girona, Jordi Cipriano, Riccardo De Vivo, Manu Lahariya
+Copyright (c) 2022 Gerard Mor, Pablo Alexander Moreno, Aleix Badia, Eloi Gabaldón, Jordi Carbonell, Stoyan Danov, Florencia Lazzari, Gerard Laguna, Marc Girona, Jordi Cipriano, Riccardo De Vivo, Manu Lahariya
 
 
